@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<connexion>
+
+    <personnel>
+        <identifiant>dada</identifiant>
+        <mdp>dada</mdp> 
+    </personnel>
+    <personnel>
+        <identifiant>dodo</identifiant>
+        <mdp>dodo</mdp> 
+    </personnel>
+    <personnel>
+        <identifiant>dudu</identifiant>
+        <mdp>dudu</mdp> 
+    </personnel>
+    
+  
+</connexion>

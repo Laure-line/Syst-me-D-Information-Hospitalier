@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infosCourante>
+  <personnel>
+    <type>Medical</type>
+    <nom>Bono</nom>
+    <prenom>Jean</prenom>
+    <identifiant>M_Bono</identifiant>
+  </personnel>
+  <patient>
+    <nom>Track</nom>
+    <prenom>Pat</prenom>
+    <dateDeNaissance>1990-5-1</dateDeNaissance>
+    <adresse>
+      <rue>10 Rue Lafaillette</rue>
+      <codePostal>38400</codePostal>
+      <ville>St Martin d'Hères</ville>
+    </adresse>
+    <nSecuriteSociale>190053802202623</nSecuriteSociale>
+    <sexe>M</sexe>
+  </patient>
+</infosCourante>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients>
+  <patient>
+    <nom>Track</nom>
+    <prenom>Pat</prenom>
+    <dateDeNaissance>1-5-1990</dateDeNaissance>
+    <adresse>
+      <rue>10 Rue Lafaillette</rue>
+      <codePostal>38400</codePostal>
+      <ville>St Martin d'Hères</ville>
+    </adresse>
+    <nSecuriteSociale>190053802202623</nSecuriteSociale>
+    <sexe>M</sexe>
+  </patient>
+  <patient>
+    <nom>Bole</nom>
+    <prenom>Pat</prenom>
+    <dateDeNaissance>6-7-1973</dateDeNaissance>
+    <adresse>
+      <rue>58 Rue Lafaillette</rue>
+      <codePostal>38000</codePostal>
+      <ville>Grenoble</ville>
+    </adresse>
+    <nSecuriteSociale>173073841258752</nSecuriteSociale>
+    <sexe>M</sexe>
+  </patient>
+  <patient>
+    <nom>Bole</nom>
+    <prenom>Maggy</prenom>
+    <dateDeNaissance>11-11-1975</dateDeNaissance>
+    <adresse>
+      <rue>962 Place du Bourg</rue>
+      <codePostal>38000</codePostal>
+      <ville>Grenoble</ville>
+    </adresse>
+    <nSecuriteSociale>275113845621459</nSecuriteSociale>
+    <sexe>F</sexe>
+  </patient>
+  <patient>
+    <nom>Epi</nom>
+    <prenom>Fannie</prenom>
+    <dateDeNaissance>12-6-1920</dateDeNaissance>
+    <adresse>
+      <rue>45 Boulevard Jean Rey</rue>
+      <codePostal>38000</codePostal>
+      <ville>Grenoble</ville>
+    </adresse>
+    <nSecuriteSociale>220064569532515</nSecuriteSociale>
+    <sexe>F</sexe>
+  </patient>
+  <patient>
+    <nom>Henfayitte</nom>
+    <prenom>Melusine</prenom>
+    <dateDeNaissance>28-2-1983</dateDeNaissance>
+    <adresse>
+      <rue>101 Avenue de la Republique</rue>
+      <codePostal>38000</codePostal>
+      <ville>Grenoble</ville>
+    </adresse>
+    <nSecuriteSociale>283023812563482</nSecuriteSociale>
+    <sexe>F</sexe>
+  </patient>
+  <patient>
+    <nSecuriteSociale>298086815935746</nSecuriteSociale>
+    <nom>Tran</nom>
+    <prenom>Laura</prenom>
+    <dateDeNaissance>23-8-1998</dateDeNaissance>
+    <adresse>
+      <rue>1 Rue André Maginot</rue>
+      <codePostal>38000</codePostal>
+      <ville>Grenoble</ville>
+    </adresse>
+    <sexe>F</sexe>
+  </patient>
+</patients>
