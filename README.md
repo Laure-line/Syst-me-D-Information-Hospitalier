@@ -10,4 +10,4 @@ Pas de SGBD, les données sont traitées via des fichiers xml.
 
 ## Utilisation
 
-
+Lancer le fichier "Projet_Integratif_TIS3.jar"
